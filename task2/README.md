@@ -40,7 +40,7 @@ This project aims to predict the selling price of used cars based on several fac
 ## 🚀 How to Run the Project
 1. Clone this repository:
    ```bash
-(git clone https://github.com/PradnyaBondarde/ShadowFox.git)
+    [git clone https://github.com/PradnyaBondarde/ShadowFox.git]
    cd task2
 2. Install dependencies:
 
