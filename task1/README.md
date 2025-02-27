@@ -27,9 +27,9 @@ The dataset contains information about:
 ## 🛠 Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/PradnyaBondarde/task1
+   [git clone https://github.com/PradnyaBondarde/ShadowFox.git]
 2. Navigate to the project directory:
-cd house-price-prediction
+cd task1
 
 3. Install dependencies:
 pip install -r requirements.txt
