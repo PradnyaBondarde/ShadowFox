@@ -40,7 +40,7 @@ This project aims to predict the selling price of used cars based on several fac
 ## 🚀 How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Car-Price-Prediction.git
+   git clone https://github.com/PradnyaBondarde/Car-Price-Prediction.git
    cd Car-Price-Prediction
 2. Install dependencies:
 
