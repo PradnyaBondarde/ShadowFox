@@ -27,7 +27,7 @@ The dataset contains information about:
 ## 🛠 Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/PradnyaBondarde/house-price-prediction.git
+   git clone https://github.com/PradnyaBondarde/task1
 2. Navigate to the project directory:
 cd house-price-prediction
 
